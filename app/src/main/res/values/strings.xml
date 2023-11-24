@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Food Ninja</string>
+    <string name="delivery_favorite_food">Delivery Favorite Food</string>
+    <string name="food_ninja">Food Ninja</string>
+    <string name="title_onBoard1">Find your Comfort Food here</string>
+    <string name="sub_title_onboard1">Here you can find a chef or dish for every taste and color.Enjoy!</string>
+    <string name="title_onBoard2">Food Ninja is Where your Comfort Food Lives</string>
+    <string name="sub_title_onboard2">Enjoy and fast smooth food delivery at your doorstep</string>
+    <string name="next">Next</string>
+    <string name="login_label">Login To Your Account</string>
+    <string name="forgot_your_password">Forgot Your Password?</string>
+    <string name="or_continue_with">Or  Continue with</string>
+    <string name="sign_up_label">Sign Up For Free</string>
+    <string name="already_have_an_account">already have an account?</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up_toggle_1">Keep Me Signed in</string>
+    <string name="sign_up_toggle_2">Email Me About Special Prices</string>
+    <string name="fill_in_your_bio_to_get_started">Fill in your bio to get started</string>
+    <string name="name">Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="this_data_will_be_displayed_in_your_account_profile_for_security">This data will be displayed in your account profile for security</string>
+    <string name="from_gallery">From Gallery</string>
+    <string name="google">Google</string>
+    <string name="upload_your_photo_profile">Upload Your Photo Profile</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="try_order">Try Order</string>
+
+    <string name="enter_4_digit_verification_code">Enter 4-digit Verification code</string>
+    <string name="code_send_title">Code sent To +%1$d %2$s.This code will expired in %3$s</string>
+    <string name="via_sms">Via sms:</string>
+    <string name="via_email">Via email:</string>
+    <string name="congrats">Congrats!</string>
+    <string name="your_profile_is_ready_to_use">Your Profile Is Ready To Use</string>
+    <string name="password_reset_successful">Password reset successful</string>
+    <string name="back">Back</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_password">New Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="reset_your_password_here">Reset your password here</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="facebook">Facebook</string>
+    <string name="set_location">Set Location</string>
+    <string name="verify_info_dialog_title">Verify Your Contact Information</string>
+    <string name="verify_info_dialog_phone_sub_title">We need your phone number to proceed</string>
+    <string name="verify_info_dialog_email_sub_title">We need your email to proceed</string>
+    <string name="what_do_you_want_to_order">What do you want to order?</string>
+    <string name="find_your_favorite_food">Find Your Favorite Food</string>
+    <string name="special_deal_for_october">Special Deal For October</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="view_more">View More</string>
+
+    <string name="filter_km">%1$d KM</string>
+
+
+
+</resources>
